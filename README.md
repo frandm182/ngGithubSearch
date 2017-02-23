@@ -1,2 +1,8 @@
 # ngGithubSearch
-Buscador de perfiles en github
+App de un burcador en github
+
+## Instalacion de dependencias
+npm install
+
+## Ejecutar la aplicación
+npm start
